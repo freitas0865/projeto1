@@ -22,6 +22,10 @@ header nav ul li a:hover{
         color: yellow;
 }
 header img{
-        height: 100%;
+        height: 300%;
+}
+section#banner{ 
+        height: 350%;
+        background: pink;        
 }
 
